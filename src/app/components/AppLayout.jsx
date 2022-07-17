@@ -17,7 +17,7 @@ const AppLayout = ({ children }) => {
   return (
     <div className={styles.container}>
       <Head>
-        <meta name="description" content="Web developer" />
+        <meta name='description' content="Web developer" />
         <meta name="keywords" content={String(keywords)} />
         <title>Saufthdev portfolio</title>
         <link rel="icon" href="/favicon.ico" />
